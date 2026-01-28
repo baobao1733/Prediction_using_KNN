@@ -12,7 +12,7 @@ Gender
 
 Age
 
-Estimated Salary
+Salary
 
 This helps retail stores identify high-potential customers and optimize marketing strategies.
 
